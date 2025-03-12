@@ -17,9 +17,9 @@ headers = {
     'Content-Type': 'application/json',
 }
 json = {
-    "login": "dl9_test",
-    "email": "dl9_test@mail.ru",
-    "password": "123456789"
+    "login": "dm_qa_001",
+    "email": "dm_qa_001@mail.ru",
+    "password": "987654321"
 }
 
 response = requests.post(
